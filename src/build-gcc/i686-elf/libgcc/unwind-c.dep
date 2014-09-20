@@ -1,0 +1,25 @@
+unwind-c.o: ../../../gcc-4.7.2/libgcc/unwind-c.c ../.././gcc/tconfig.h \
+ ../.././gcc/auto-host.h ../../../gcc-4.7.2/libgcc/../include/ansidecl.h \
+ ../../../gcc-4.7.2/libgcc/../gcc/tsystem.h \
+ /home/cpt/src/build-gcc/./gcc/include/stddef.h \
+ /home/cpt/src/build-gcc/./gcc/include/float.h \
+ ../../../gcc-4.7.2/libgcc/../include/filenames.h unwind.h \
+ ../../../gcc-4.7.2/libgcc/unwind-pe.h
+
+../.././gcc/tconfig.h:
+
+../.././gcc/auto-host.h:
+
+../../../gcc-4.7.2/libgcc/../include/ansidecl.h:
+
+../../../gcc-4.7.2/libgcc/../gcc/tsystem.h:
+
+/home/cpt/src/build-gcc/./gcc/include/stddef.h:
+
+/home/cpt/src/build-gcc/./gcc/include/float.h:
+
+../../../gcc-4.7.2/libgcc/../include/filenames.h:
+
+unwind.h:
+
+../../../gcc-4.7.2/libgcc/unwind-pe.h:

@@ -1,0 +1,1 @@
+../../../gcc-4.7.2/gmp/mpn/generic/fib2_ui.c
